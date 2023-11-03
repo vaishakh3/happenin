@@ -1,11 +1,13 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Happenin
+This project do events. This project is for awesome events...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Vaishakh Suresh [https://github.com/vaishakh3]
+2. Shereen Rafi [https://github.com/sher971]
+3. Gurupushpam M [https://github.com/Gurupushpam]
+4. Vedika Aneesh [https://github.com/vedikaaneesh]
 ## Team Id
-Team id here
+albatross
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
